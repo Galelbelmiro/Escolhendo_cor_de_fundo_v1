@@ -1,0 +1,40 @@
+
+
+h2{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-60%,-60%);
+}
+
+.painel{ 
+    padding:20px;
+    width:400px ;
+    height: 100px;
+    display: flex;
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    justify-content: center;
+}
+
+.painel label {
+font-size: 1.2rem;
+border-radius: 10px;
+width: 150px;
+border: 1px solid rgb(0, 0, 0);
+background: #232323;
+
+}
+
+.painel input {
+position: relative;
+right: 100px;
+top: 50px;
+}
+
+
+
